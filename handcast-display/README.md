@@ -92,3 +92,6 @@ Huge thanks to **PCB Cupid** for providing the Glyph C6 development board used i
 Working with such a capable and well-documented board made the entire process smooth and enjoyable.
 
 I’m grateful to be part of a team that encourages hands-on experimentation, learning, and creativity.
+
+You can buy GLYPH C6 – WiFi / Zigbee Enabled ESP32C6 DEV Board here:
+<a href="https://shop.pcbcupid.com/product/gd002/" target="_blank">GLYPH C6</a>
